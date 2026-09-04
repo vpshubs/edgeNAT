@@ -12,10 +12,10 @@ SK线路，韩国本土ip，不限制流量，从2G内存开始支持windows系�
 
 | **内存** | **CPU** | **数据盘** | **带宽** | **价格** | **购买**                                               |
 | -------- | ------- | ---------- | -------- | -------- | ------------------------------------------------------ |
-| 1G       | 1核     | 无         | 5M       | 100元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=13) |
-| 2G       | 2核     | 20G        | 5M       | 120元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=13) |
-| 4G       | 4核     | 50G        | 10M      | 220元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=13) |
-| 8G       | 4核     | 70G        | 10M      | 320元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=13) |
+| 1G       | 1核     | 无         | 5M       | 100元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=13) |
+| 2G       | 2核     | 20G        | 5M       | 120元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=13) |
+| 4G       | 4核     | 50G        | 10M      | 220元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=13) |
+| 8G       | 4核     | 70G        | 10M      | 320元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=13) |
 
 ## 香港直连CN2 VPS
 
@@ -23,11 +23,11 @@ TGT数据中心，三网直连线路，不限制流量从4G内存开始支持win
 
 | **内存** | **CPU** | **数据盘** | **带宽** | **价格** | **购买**                                              |
 | -------- | ------- | ---------- | -------- | -------- | ----------------------------------------------------- |
-| 2G       | 2核     | 无         | 10M      | 60元/月  | [链接](https://www.edgenat.com/aff.php?aff=785&gid=5) |
-| 2G       | 4核     | 无         | 10M      | 80元/月  | [链接](https://www.edgenat.com/aff.php?aff=785&gid=5) |
-| 8G       | 4核     | 50G        | 20M      | 150元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=5) |
-| 6G       | 6核     | 50G        | 20M      | 130元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=5) |
-| 16G      | 8核     | 100G       | 30M      | 300元/月 | [链接](https://www.edgenat.com/aff.php?aff=785&gid=5) |
+| 2G       | 2核     | 无         | 10M      | 60元/月  | [链接](https://www.edgenat.com/aff.php?aff=742&gid=5) |
+| 2G       | 4核     | 无         | 10M      | 80元/月  | [链接](https://www.edgenat.com/aff.php?aff=742&gid=5) |
+| 8G       | 4核     | 50G        | 20M      | 150元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=5) |
+| 6G       | 6核     | 50G        | 20M      | 130元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=5) |
+| 16G      | 8核     | 100G       | 30M      | 300元/月 | [链接](https://www.edgenat.com/aff.php?aff=742&gid=5) |
 
 ## 日本原生IP VPS
 
@@ -35,11 +35,11 @@ TGT数据中心，三网直连线路，不限制流量从4G内存开始支持win
 
 | **内存** | **CPU** | **数据盘** | **带宽** | **流量**  | **价格** | **购买**                                                   |
 | -------- | ------- | ---------- | -------- | --------- | -------- | ---------------------------------------------------------- |
-| **1G**   | 1核     | **20G**    | **100M** | **1000G** | 70元/月  | **[链接](https://www.edgenat.com/aff.php?aff=785&gid=21)** |
-| 2G       | 2核     | 20G        | 200M     | 1000G     | 100元/月 | **[链接](https://www.edgenat.com/aff.php?aff=785&gid=21)** |
-| 2G       | 4核     | 40G        | 200M     | 2000G     | 120元/月 | **[链接](https://www.edgenat.com/aff.php?aff=785&gid=21)** |
-| 4G       | 4核     | 70G        | 300M     | 3000G     | 150元/月 | **[链接](https://www.edgenat.com/aff.php?aff=785&gid=21)** |
-| 4G       | 8核     | 100G       | 500M     | 8000G     | 240元/月 | **[链接](https://www.edgenat.com/aff.php?aff=785&gid=21)** |
+| **1G**   | 1核     | **20G**    | **100M** | **1000G** | 70元/月  | **[链接](https://www.edgenat.com/aff.php?aff=742&gid=21)** |
+| 2G       | 2核     | 20G        | 200M     | 1000G     | 100元/月 | **[链接](https://www.edgenat.com/aff.php?aff=742&gid=21)** |
+| 2G       | 4核     | 40G        | 200M     | 2000G     | 120元/月 | **[链接](https://www.edgenat.com/aff.php?aff=742&gid=21)** |
+| 4G       | 4核     | 70G        | 300M     | 3000G     | 150元/月 | **[链接](https://www.edgenat.com/aff.php?aff=742&gid=21)** |
+| 4G       | 8核     | 100G       | 500M     | 8000G     | 240元/月 | **[链接](https://www.edgenat.com/aff.php?aff=742&gid=21)** |
 
 ## edgeNAT 最新优惠券
 
